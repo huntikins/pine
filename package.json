@@ -1,6 +1,6 @@
 {
   "name": "@huntikins/pine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pine is a modern HTML node based templating engine that leverages Alpine.js for clientside logic",
   "main": "./dist/pine.js",
   "scripts": {
