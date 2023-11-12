@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2022",
+    "lib": ["ESNext"],
+    "types": ["@types/node", "@types/jest", "@types/get-value"],
+    "outDir": "./dist",
+    "strict": true,
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "src/**/*.test.ts", "src/**/*.interface.ts"]
+}
